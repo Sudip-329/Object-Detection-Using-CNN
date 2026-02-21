@@ -1,4 +1,3 @@
-# Object-Detection-Using-CNN
 # Object Detection Using CNN 🚀
 
 This repository contains the code, report, and presentation for my 6th-semester Minor Project on **Image Classification and Object Detection using Convolutional Neural Networks (CNN)**. The model is built, trained, and evaluated using the **CIFAR-10** dataset.
