@@ -14,7 +14,6 @@ This repository contains the code, report, and presentation for my 6th-semester 
 The model is trained on the widely used [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html), which consists of 60,000 32x32 color images divided into 10 distinct classes (e.g., airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks).
 
 ## 📈 Results & Evaluation
-
 Below is the confusion matrix generated after testing the model. It illustrates the model's performance, showing the true positive predictions versus misclassifications across all 10 categories.
 
 ![Confusion Matrix](confusion%20matrix.png)
